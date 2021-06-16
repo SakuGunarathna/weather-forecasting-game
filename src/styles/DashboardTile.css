@@ -1,0 +1,14 @@
+.div-dash-tile{
+    display : inline-block;
+    height : 30%;
+    border-style : groove;
+    padding : 2%
+}
+
+.div-color-success{
+    border-color: blue;
+}
+
+.div-color-fail{
+    border-color: red;
+}

@@ -1,0 +1,9 @@
+.div-app-cont{
+    position : absolute;
+    left : 20%;
+    top : 20%;
+    border-style : groove; 
+    padding : 2%;
+    height : 30%;
+    width : 60%
+}
